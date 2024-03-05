@@ -65,21 +65,7 @@
   border-radius: 10px; /* Ajustando el radio de borde */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
 }
-#tour {
-  position: absolute;
-  top: -0%;
-  right: auto;
-  bottom: 30px;
-  left: 5%;
-  width: 150px;
-  height: 380px;
-  background-color: #e5e5e5;
-  background-image: url('vuelos.png');
-  background-size: cover;
-  background-position: center;
-  border-radius: 10px; /* Ajustando el radio de borde */
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
-}
+
 
 
 /*
