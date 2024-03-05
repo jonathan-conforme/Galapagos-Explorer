@@ -65,15 +65,6 @@
   border-radius: 10px; /* Ajustando el radio de borde */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
 }
-.bg-body{
-  background-image: url('Inicio.png');
-  background-size: cover;
-  background-position: center;
-  border-radius: 10px; /* Ajustando el radio de borde */
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
-
-}
-
 
 /*
  * Extra utilities
