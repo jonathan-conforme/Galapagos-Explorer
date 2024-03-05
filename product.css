@@ -65,7 +65,7 @@
   border-radius: 10px; /* Ajustando el radio de borde */
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
 }
-.display-5 {
+#tour {
   position: absolute;
   top: -0%;
   right: auto;
