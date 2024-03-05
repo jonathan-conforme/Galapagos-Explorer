@@ -24,15 +24,19 @@
  * Dummy devices (replace them with your own or something else entirely!)
  */
 
-.product-device {
+ .product-device {
   position: absolute;
-  right: 10%;
-  bottom: -30%;
-  width: 300px;
-  height: 540px;
+  top: 5%;
+  right: 5%;
+  bottom: 40%;
+  width: 200px;
+  height: 520px;
   background-color: #333;
-  border-radius: 21px;
-  transform: rotate(30deg);
+  background-image: url('movil.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px;
+  box-shadow: 40 80px 80px rgba(0, 0, 0, 0.2); /* Agregar sombra */
 }
 
 .product-device::before {
@@ -47,12 +51,21 @@
 }
 
 .product-device-2 {
-  top: -25%;
+  position: absolute;
+  top: -0%;
   right: auto;
-  bottom: 0;
+  bottom: 30px;
   left: 5%;
+  width: 150px;
+  height: 380px;
   background-color: #e5e5e5;
+  background-image: url('Inicio.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px; /* Ajustando el radio de borde */
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); /* Agregar sombra */
 }
+
 
 
 /*
